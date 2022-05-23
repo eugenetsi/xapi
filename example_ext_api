@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# CAUTION! NEVER EVER UPLOAD FILE LIKE SERIOUSLY PINKY SWEAR 
+
+export EXT_API_HOST_FOOTBALL="api-host-link-here"
+export EXT_API_KEY_FOOTBALL="long-ass-string-key-here"
+export EXT_API_HOST_BASKETBALL="api-host-link-here"
+export EXT_API_KEY_BASKETBALL="long-ass-string-key-here"
