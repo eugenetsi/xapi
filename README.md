@@ -1,8 +1,10 @@
 # External API (xapi)
 
+Xapi is an ingestion and preprocessing engine for sports API data.
+
 ************************** **CAUTION** **************************
 
->max api calls per day: 100, after that we get charged
+>max api calls per day: 100, after that you get charged
 
 >max api calls per minute: 30
 
@@ -38,7 +40,7 @@
 ## Usage <a name="usage"></a>
 To use the external API you have to create environment variables
 with the names `EXT_API_HOST_FOOTBALL` and `EXT_API_KEY_FOOTBALL`,
-export the variables and source the script. Ask me to get the working keys.
+export the variables and source the script.
 
 Example script is provided in `./example_ext_api`.
 
